@@ -29,11 +29,9 @@ A classification project that predicts loan approval using applicant data such a
 
 ## 📁 Project Structure
 
-
-│
-├── Dataset.csv                # Raw dataset  
-├── Loan_Prediction.ipynb      # Jupyter notebook with full project  
-├── README.md                  # Project overview  
+├── Dataset.csv                 
+├── Loan_Prediction.ipynb        
+├── README.md                  
 
 
 ##  Sample Prediction Code
